@@ -34,39 +34,6 @@ End-to-end exploratory data analysis of an e-commerce retail dataset containing 
 | Seaborn | Statistical charts |
 | Jupyter Notebook | Analysis environment |
 
----
-
-## 📊 Key Insights
-
-### 💰 Sales Performance
-- **Total Revenue:** £[ISI DARI OUTPUT]
-- **Total Orders:** [ISI]
-- **Total Customers:** [ISI]
-- **Average Order Value:** £[ISI]
-- **Repeat Customer Rate:** [ISI]%
-
-### 📦 Product
-- Top product by quantity: **[ISI]**
-- Top product by revenue: **[ISI]**
-
-### 🕐 Time Analysis
-- Peak month: **[ISI]**
-- Peak day: **[ISI]**
-- Peak hour: **[ISI]:00**
-
-### 👥 Customer Segments (RFM)
-- **Champions:** [ISI]% of customers
-- **At Risk:** [ISI]% need re-engagement
-
----
-
-## 💡 Business Recommendations
-
-1. **Peak Season Campaign** — Launch promotions in [peak month], revenue historically highest
-2. **Retain Champions** — Top [ISI]% customers drive majority of revenue, create VIP loyalty program
-3. **Re-engage At Risk** — Send win-back email campaign to [ISI]% at-risk customers
-4. **Stock Optimization** — Ensure top products always in stock, especially pre-peak season
-5. **International Expansion** — [Top non-UK country] shows strong demand outside UK
 
 ---
 
@@ -91,7 +58,7 @@ ecommerce-sales-analysis/
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/[USERNAME]/ecommerce-sales-analysis.git
+git clone https://github.com/asepprayogii/ecommerce-sales-analysis.git
 cd ecommerce-sales-analysis
 pip install -r requirements.txt
 jupyter notebook notebook/ecommerce_analysis.ipynb
