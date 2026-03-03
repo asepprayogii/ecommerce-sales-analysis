@@ -61,5 +61,5 @@ ecommerce-sales-analysis/
 git clone https://github.com/asepprayogii/ecommerce-sales-analysis.git
 cd ecommerce-sales-analysis
 pip install -r requirements.txt
-jupyter notebook notebook/ecommerce_analysis.ipynb
+jupyter notebook notebook/ecommerce_analysis.ipynb 
 ```
