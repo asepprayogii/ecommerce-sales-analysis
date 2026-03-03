@@ -50,7 +50,7 @@ ecommerce-sales-analysis/
 │   ├── time_analysis.png
 │   ├── country_analysis.png
 │   └── rfm_analysis.png
-├── README.md
+├── README.md 
 └── requirements.txt
 ```
 
